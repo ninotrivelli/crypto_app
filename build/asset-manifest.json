@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5625aa8f.css",
+    "main.js": "/static/js/main.acf4ae60.js",
+    "static/media/cryptocurrency.png": "/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "index.html": "/index.html",
+    "main.5625aa8f.css.map": "/static/css/main.5625aa8f.css.map",
+    "main.acf4ae60.js.map": "/static/js/main.acf4ae60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5625aa8f.css",
+    "static/js/main.acf4ae60.js"
+  ]
+}
