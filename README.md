@@ -1,2 +1,2 @@
-Crypo App made with React JS.
-Info about cryptocurrencies, news, and exchanges.
+<h2>Crypto App made with React JS.</h2>
+<p>Info about cryptocurrencies, news, and exchanges.</p>
